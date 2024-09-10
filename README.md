@@ -1,4 +1,4 @@
-# React Practice
+<h2>React Practice</h2>
 
 <p>This repository is dedicated to my learning journey with React.</p>
 
