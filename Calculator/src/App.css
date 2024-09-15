@@ -1,0 +1,49 @@
+h1 {
+    font-weight: 700;
+    font-size: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 10px;
+    font-weight: bold;
+    color: #f5f2f2;
+  }
+  
+  .cal-container {
+    margin: 50px auto 30px auto; /* Adjust the top margin value as needed */
+    background-color: #0d6efd;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 30%;
+}
+
+
+input[type='text'] {
+    width: 200px;
+    height: 30px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    text-align: right;
+}
+
+.btn-container {
+    display: grid;
+    grid-template-columns: repeat(3, 50px); /* 4 buttons per row */
+    grid-gap: 10px; /* Space between buttons */
+    justify-content: center;
+}
+
+/* General button styles */
+.btn {
+  color: #3181f7;
+  padding: 15px;
+  font-size: 20px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  cursor: pointer;
+  border: 2px solid whitesmoke;
+  border-radius: 5px;
+  margin: 5px;
+}
