@@ -9,6 +9,6 @@
   <li>Component Building</li>
   <li>Conditional Rendering</li>
   <li>Fragments</li>
-  <li>Props Basics</li>
+  <li>Props basics</li>
 </ol>
 
