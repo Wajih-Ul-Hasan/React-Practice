@@ -10,5 +10,6 @@
   <li>Conditional Rendering</li>
   <li>Fragments</li>
   <li>Props basics</li>
+  <li>State Management</li>
 </ol>
 
