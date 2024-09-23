@@ -11,5 +11,6 @@
   <li>Fragments</li>
   <li>Props basics</li>
   <li>State Management</li>
+  <li>useState Hook</li>
 </ol>
 
