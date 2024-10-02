@@ -5,8 +5,8 @@
 <h2>Topics I've Learned So Far</h2>
 
 <ol>
-  <li>Folder Structure</li>
-  <li>Component Building</li>
+  <li>Folder Structure </li>
+  <li>Component Building </li>
   <li>Conditional Rendering</li>
   <li>Fragments</li>
   <li>Props basics</li>
